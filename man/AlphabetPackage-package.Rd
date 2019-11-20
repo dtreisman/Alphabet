@@ -2,10 +2,10 @@
 \alias{AlphabetPackage-package}
 \alias{AlphabetPackage}
 \docType{package}
-\title{
+\title{Alphabet
 \packageTitle{AlphabetPackage}
 }
-\description{
+\description{Contains a function that will sample n letters from the alphabet without replacement
 \packageDescription{AlphabetPackage}
 }
 \details{
@@ -16,7 +16,7 @@ The DESCRIPTION file:
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
 }
-\author{
+\author{Dani Treisman
 \packageAuthor{AlphabetPackage}
 
 Maintainer: \packageMaintainer{AlphabetPackage}

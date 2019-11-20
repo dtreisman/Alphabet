@@ -1,10 +1,10 @@
 \name{alphabet}
 \alias{alphabet}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{alphabet
 %%  ~~function to do ... ~~
 }
-\description{
+\description{Sample n letters from the alphabet without replacement
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
