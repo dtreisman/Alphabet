@@ -1,9 +1,0 @@
-Package: Alphabet
-Type: Package
-Title: Sample n letters from the alphabet
-Version: 1.0
-Date: 2019-11-20
-Author: Dani Treisman
-Maintainer: dtreisman@luc.edu
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
