@@ -4,7 +4,7 @@
 \title{alphabet
 %%  ~~function to do ... ~~
 }
-\description{
+\description{This package conatins a function that can be used to sample n letters from the alphabet
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
